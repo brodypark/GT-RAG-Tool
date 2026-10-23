@@ -1,17 +1,7 @@
 # DEVLOG
 
-Log problems you hit and what you learned. Write it in your own words; future-you is the audience.
-
-## Entry template
-### YYYY-MM-DD: short title
-- **Problem:** what went wrong or confused me
-- **What I tried:**
-- **Root cause / answer:**
-- **What I learned:**
-- **Open questions:**
-
----
-
-### 2026-10-20: Project kickoff
-- **Goal:** build a GT Degree & Course Assistant (RAG) to learn AI engineering
-- **Learned:** (fill in after setup)
+### 2026-10-22: Project setup
+- Needed `python3` to make the venv. After activating, `python` works.
+- `.venv` = my libraries, `.env` = my secrets. Both ignored.
+- `__init__.py` makes a folder importable.
+- Code in `src/`, generated stuff in `data/`.

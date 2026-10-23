@@ -39,7 +39,7 @@ First-year CS student at Georgia Tech (threads: AI + Systems & Architecture). Co
 ## Milestone roadmap (~4 weeks)
 
 ### Week 1: Foundations + data
-- [ ] Environment, git, repo structure
+- [Done] Environment, git, repo structure
 - [ ] Check robots.txt/terms for each source; decide sources (catalog, thread pages)
 - [ ] Write scraper/downloader; save raw data to `data/raw/` with source URL + fetch date
 - [ ] Clean text; first-pass chunking strategy (and why)
@@ -67,6 +67,6 @@ First-year CS student at Georgia Tech (threads: AI + Systems & Architecture). Co
 - Concepts: hybrid retrieval/fusion, API design, secrets handling, deployment basics
 
 ## Current milestone
-**Week 1, step 1: Environment, git, repo structure.** (Started 2026-10-20)
+**Week 1, step 2: check robots.txt/terms, pick sources, choose scraping libraries.
 
 _Update this section as Brody completes items. Check off boxes above and move the pointer here._
